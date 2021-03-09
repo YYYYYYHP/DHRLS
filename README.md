@@ -1,7 +1,7 @@
 Dual Hypergraph Regularized Least Squares (DHRLS)
 =================
 DHRLS is one novel computational method, which utilizes Multiple kernels learning and Hypergraph Regularized Least Squares to predict the association between diseases and genes.
-![Image text](http://yhpjc.vip/download/dhrls_flow.jpg)
+![Image text](http://yhpjc.vip/download/DHRLS/dhrls_flow.jpg)
 1.Code.
 >1)cka_kernels_weights.p: function implementing CKA algorithm;
 
@@ -19,7 +19,7 @@ DHRLS is one novel computational method, which utilizes Multiple kernels learnin
 
 >2)gene_disease_Y.mat:store the matrix of association between diseases and genes
 
->Due to file upload restrictions, click [DATA](http://yhpjc.vip/download/gene_disease_dataset.mat) to get all data
+>Due to file upload restrictions, click [DATA](http://yhpjc.vip/download/DHRLS/gene_disease_dataset.mat) to get all data
 
 3.Predicting_novel_interactions.
 
