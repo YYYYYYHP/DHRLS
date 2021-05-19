@@ -19,7 +19,7 @@ DHRLS is one novel computational method, which utilizes Multiple kernels learnin
 
 >2)gene_disease_Y.mat:store the matrix of association between diseases and genes
 
->Due to file upload restrictions, click [DATA](http://yhpjc.vip/download/DHRLS/gene_disease_dataset.mat) to get all data
+>Due to file upload restrictions, click [DATA](https://www.yhpjc.vip/download/DHRLS/gene_disease_dataset.mat) to get all data
 
 3.Predicting_novel_interactions.
 
